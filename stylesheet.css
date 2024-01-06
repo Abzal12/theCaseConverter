@@ -1,0 +1,30 @@
+.title {
+    font-weight: bold;
+}
+
+textarea {
+}
+
+#upper-case {
+    background-color: coral;
+    border: 0;
+    font-size: 5px;
+}
+
+#lower-case {
+    background-color: coral;
+    border: 0;
+    font-size: 5px;
+}
+
+#proper-case {
+    background-color: coral;
+    border: 0;
+    font-size: 5px;
+}
+
+#sentence-case {
+    background-color: coral;
+    border: 0;
+    font-size: 5px;
+}
