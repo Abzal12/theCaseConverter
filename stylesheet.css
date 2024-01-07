@@ -28,3 +28,9 @@ textarea {
     border: 0;
     font-size: 5px;
 }
+
+#save-text-file {
+    background-color: coral;
+    border: 0;
+    font-size: 5px;
+}
